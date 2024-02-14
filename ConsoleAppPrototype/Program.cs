@@ -1,6 +1,6 @@
 ﻿// /**********************************************************************************
 // **
-// **  ConsoleAppPrototype v1.0
+// **  ConsoleAppPrototype v1.1
 // **
 // **  Copyright 2024
 // **  Developed by: Ronald A. Garlit
@@ -11,7 +11,8 @@
 // **  Version: 0.1
 // **  Author: Ronald A. Garlit
 // **
-// **  Description: Program Description
+// **  Description: This is my prototype console application for creating and 
+// **  executing .NET console application. Based on my Visual Studio 2019 version.
 // **
 // **  Prototype console application for executing your own .NET console
 // **  application.
