@@ -2,14 +2,14 @@
 // **
 // **  ConsoleAppPrototype v1.0
 // **
-// **  Copyright 2020
-// **  Developed by:  Garlit, Ronald A..
+// **  Copyright 2024
+// **  Developed by: Ronald A. Garlit
 // **
 // ***********************************************************************************
 // **
 // **  FileName: Program.cs (ConsoleAppPrototype)
 // **  Version: 0.1
-// **  Author: Garlit, Ronald A.
+// **  Author: Ronald A. Garlit
 // **
 // **  Description: Program Description
 // **
@@ -20,7 +20,7 @@
 // **
 // **  WHEN         WHO         WHAT
 // **---------------------------------------------------------------------------------
-// **  2020-09-15   RGARLIT     STARTED DEVELOPMENT
+// **  2024-02-14   RGARLIT     STARTED DEVELOPMENT
 // ***********************************************************************************/
 using System;
 using System.Threading;
